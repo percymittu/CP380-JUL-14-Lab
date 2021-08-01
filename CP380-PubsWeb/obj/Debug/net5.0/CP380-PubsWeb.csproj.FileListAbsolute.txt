@@ -1,0 +1,242 @@
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\appsettings.Development.json
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\appsettings.json
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.exe
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.deps.json
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.runtimeconfig.json
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.runtimeconfig.dev.json
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\ref\CP380-PubsWeb.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.pdb
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.Views.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.Views.pdb
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Collections.Immutable.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsLab.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsLab.pdb
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.csprojAssemblyReference.cache
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.GeneratedMSBuildEditorConfig.editorconfig
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.AssemblyInfoInputs.cache
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.AssemblyInfo.cs
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.csproj.CoreCompileInputs.cache
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.MvcApplicationPartsAssemblyInfo.cache
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorAssemblyInfo.cache
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorAssemblyInfo.cs
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\staticwebassets\CP380-PubsWeb.StaticWebAssets.Manifest.cache
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\staticwebassets\CP380-PubsWeb.StaticWebAssets.xml
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\scopedcss\bundle\CP380-PubsWeb.styles.css
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.TagHelpers.input.cache
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.TagHelpers.output.cache
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorCoreGenerate.cache
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorTargetAssemblyInfo.cache
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorTargetAssemblyInfo.cs
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.Views.pdb
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.csproj.CopyComplete
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\ref\CP380-PubsWeb.dll
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.pdb
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.genruntimeconfig.cache
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Jobs\Index.cshtml.g.cs
+E:\Heema\2\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Emps\Index.cshtml.g.cs
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.csprojAssemblyReference.cache
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.GeneratedMSBuildEditorConfig.editorconfig
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.AssemblyInfoInputs.cache
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.AssemblyInfo.cs
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.csproj.CoreCompileInputs.cache
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.MvcApplicationPartsAssemblyInfo.cache
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorAssemblyInfo.cache
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorAssemblyInfo.cs
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\appsettings.Development.json
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\appsettings.json
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.exe
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.deps.json
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.runtimeconfig.json
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.runtimeconfig.dev.json
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\ref\CP380-PubsWeb.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.pdb
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.Views.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.Views.pdb
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Collections.Immutable.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsLab.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsLab.pdb
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\staticwebassets\CP380-PubsWeb.StaticWebAssets.Manifest.cache
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\staticwebassets\CP380-PubsWeb.StaticWebAssets.xml
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\scopedcss\bundle\CP380-PubsWeb.styles.css
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.TagHelpers.input.cache
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.TagHelpers.output.cache
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorCoreGenerate.cache
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Emps\Index.cshtml.g.cs
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Jobs\Index.cshtml.g.cs
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorTargetAssemblyInfo.cache
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorTargetAssemblyInfo.cs
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.Views.pdb
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.csproj.CopyComplete
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\ref\CP380-PubsWeb.dll
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.pdb
+E:\Heema\2\02-Percy\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.genruntimeconfig.cache
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\appsettings.Development.json
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\appsettings.json
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.exe
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.deps.json
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.runtimeconfig.json
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.runtimeconfig.dev.json
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\ref\CP380-PubsWeb.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.pdb
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.Views.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.Views.pdb
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsLab.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsLab.pdb
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.csproj.AssemblyReference.cache
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.AssemblyInfoInputs.cache
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.AssemblyInfo.cs
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.csproj.CoreCompileInputs.cache
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorAssemblyInfo.cache
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorAssemblyInfo.cs
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\staticwebassets\CP380-PubsWeb.StaticWebAssets.Manifest.cache
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\staticwebassets\CP380-PubsWeb.StaticWebAssets.xml
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\scopedcss\bundle\CP380-PubsWeb.styles.css
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.TagHelpers.input.cache
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.TagHelpers.output.cache
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorCoreGenerate.cache
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Emps\Index.cshtml.g.cs
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Jobs\Index.cshtml.g.cs
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorTargetAssemblyInfo.cache
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorTargetAssemblyInfo.cs
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.Views.pdb
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.csproj.CopyComplete
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\ref\CP380-PubsWeb.dll
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.pdb
+D:\sem 4\dotnet\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.genruntimeconfig.cache

@@ -1,0 +1,37 @@
+﻿@page
+@model CP380_PubsWeb.Pages.Jobs.IndexModel
+@{
+}
+<div class="row">
+    <div class="col-12">
+        <h2 class="text-info">List Jobs</h2>
+    </div>
+    <div class="col-12">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var singleJob in Model.NoOfJobs)
+                {
+                    <tr>
+                        <th scope="row">@Html.DisplayFor(j => singleJob.job_id)</th>
+                        <td>
+                            @Html.DisplayFor(j => singleJob.job_desc)
+                        </td>
+                        <td>
+                            <a asp-page="/Emps/Index" asp-route-Id="@singleJob.job_id">
+                                Show Employee
+                            </a>
+                        </td>
+                    </tr>
+                }
+                </tbody>
+        </table>
+    </div>
+</div>
+
